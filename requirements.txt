@@ -1,0 +1,15 @@
+python-telegram-bot==13.7
+telegram==0.0.1
+typed-ast==1.4.3
+typeshed-client==1.1.0
+typing-extensions==3.10.0.0
+absl-py==0.13.0
+asgiref==3.4.1
+attrs==21.2.0
+qrcode==7.3
+Pillow==8.3.1
+mime==0.1.0
+comtypes==1.1.10
+enum34==1.1.10
+filelock==3.0.12
+requests==2.26.0
